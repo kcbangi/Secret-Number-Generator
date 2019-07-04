@@ -6,6 +6,8 @@ module.exports = function() {
     function secretNumber() {
         return randomNumberGenerator;
     };
-    return secretNumber;
 
+    return secretNumber;
+      
 };
+
